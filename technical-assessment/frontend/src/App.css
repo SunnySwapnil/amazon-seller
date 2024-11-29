@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  width: auto;
+}
+
+button:focus {
+  outline: none;
+}
+
+.modal button {
+  margin-top: 15px;
+}
+
+.modal h2 {
+  margin-bottom: 15px;
+}

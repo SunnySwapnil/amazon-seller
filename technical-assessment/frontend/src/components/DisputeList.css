@@ -1,0 +1,24 @@
+ul {
+  margin-top: 20px;
+}
+
+li {
+  font-size: 1rem;
+  background-color: #ffffff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+li strong {
+  color: #007bff;
+}
+
+li span {
+  font-weight: bold;
+}
+
+li p {
+  margin: 5px 0;
+}
